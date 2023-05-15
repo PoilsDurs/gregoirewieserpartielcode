@@ -1,0 +1,81 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    background-color: #FEFEFC;
+}
+.home{
+    margin-left: 76%;
+}
+.gcBlog{
+    margin-top: 2%;
+    justify-content: center;
+}
+.textA{
+    text-align: left;
+}
+.copyright{
+    margin-top: 3%;
+    background-color: #6C757D;
+}
+.copyright p{
+    padding: 1.5em;
+    justify-content: center;
+    display: flex;
+    color: #FEFEFC;
+    width: 100%;
+}
+.jeu p{
+    text-align: left;
+}
+h2{
+    text-align: left;
+}
+h3{
+    text-align: left;
+}
+h4{
+    text-align: left;
+}
+h5{
+    font-weight: bolder;
+}
+.moreInfo{
+    padding-right: 0%;
+}
+.copyright3{
+    margin-top: 3%;
+    background-color: #212529;
+}
+.copyright3 p{
+    padding: 1.5em;
+    justify-content: center;
+    display: flex;
+    color: #FEFEFC;
+    width: 100%;
+}
+.copyright2{
+    margin-top: 3%;
+    background-color: #F8F9FA;
+}
+.citation p{
+    font-style: italic;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 5%;
+}
+.nom {
+    justify-content: center;
+    display: flex;
+    width: 100%;
+}
+.nom p{
+    color: #212529;
+    font-weight: bolder;
+}
+.copyright2{
+    padding: 3em;
+}
+.marg {
+    margin-top: 5%;
+}
